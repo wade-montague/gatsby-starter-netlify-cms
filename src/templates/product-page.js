@@ -62,7 +62,7 @@ export const ProductPageTemplate = ({
                     <div className="tile is-parent is-vertical">
                       <article className="tile is-child">
                         <img
-                          style={{ borderRadius: '5px' }}
+                          style={{ borderRadius: '25px' }}
                           src={main.image1.image}
                           alt={main.image1.alt}
                         />
